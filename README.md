@@ -12,17 +12,14 @@ Management requests an analysis and a report to answer the following questions:
 4.	Calculate the average Customer Lifetime Value (CLV) by plan. Compare this to the Customer Acquisition Cost (CAC). Which plans are the most and least profitable?
 
 # Churn Analysis
-<img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/3cd73783-f568-4247-b472-e9483ea50adc" />
+
+<img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/7b618b70-03d1-4d9d-b77c-eee8a8198c90" />
 
 **Overall Churn Rate:**
 - The **overall churn rate is 52.17 percent**. Since 2022, CloudTask Pro has lost one customer for every two it obtains. 
 - Out of 600 clients, 313 have departed. This means the company is working twice as hard to stay in the same spot; for every new customer it acquires, it loses an existing one.
 - The following segments are high risk:
-  
-    a)	**Monthly billing, 60.51%.** Customers who pay month-to-month are significantly more likely to leave than those committed to longer billing cycles.
-  
-    b)	**Starter plan, 70.51%.** Seven out of ten people who sign up for the starter plan don't stay.
-  
-    c)	**Referral, 61.29%.** Customers referred to the company by friends/partners/colleagues are leaving at a significant rate (61.29%). Referrals are typically the most loyal, but, in this case, they are nearly as likely to leave as anyone else.
-  
-  d)	**Enterprise, 63.16%.** This is the most alarming discovery. Typically, large "enterprise" clients are the most reliable. Losing more than 60% of them shows that the company's product may not suit the demands of this segment, or that it is not providing adequate support once they join up.
+  - **Monthly billing, 60.51%.** Customers who pay month-to-month are significantly more likely to leave than those committed to longer billing cycles.
+  - **Starter plan, 70.51%.** Seven out of ten people who sign up for the starter plan don't stay.
+  - **Referral, 61.29%.** Customers referred to the company by friends/partners/colleagues are leaving at a significant rate (61.29%). Referrals are typically the most loyal, but, in this case, they are nearly as likely to leave as anyone else.
+  - **Enterprise, 63.16%.** This is the most alarming discovery. Typically, large "enterprise" clients are the most reliable. Losing more than 60% of them shows that the company's product may not suit the demands of this segment, or that it is not providing adequate support once they join up.
