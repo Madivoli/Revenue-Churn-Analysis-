@@ -1,4 +1,5 @@
 # CloudTask Pro Revenue & Churn Analysis 
+![26704](https://github.com/user-attachments/assets/4b448caf-d29b-4322-b669-5c319d79f6df)
 
 **Introduction**
 
@@ -11,7 +12,7 @@ Management requests an analysis and a report to answer the following questions:
 3.	What are the top 3 reasons customers churn, and do these reasons differ by plan type or company size?
 4.	Calculate the average Customer Lifetime Value (CLV) by plan. Compare this to the Customer Acquisition Cost (CAC). Which plans are the most and least profitable?
 
-# Churn Analysis
+
 
 <img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/7b618b70-03d1-4d9d-b77c-eee8a8198c90" />
 
@@ -23,3 +24,28 @@ Management requests an analysis and a report to answer the following questions:
   - **Starter plan, 70.51%.** Seven out of ten people who sign up for the starter plan don't stay.
   - **Referral, 61.29%.** Customers referred to the company by friends/partners/colleagues are leaving at a significant rate (61.29%). Referrals are typically the most loyal, but, in this case, they are nearly as likely to leave as anyone else.
   - **Enterprise, 63.16%.** This is the most alarming discovery. Typically, large "enterprise" clients are the most reliable. Losing more than 60% of them shows that the company's product may not suit the demands of this segment, or that it is not providing adequate support once they join up.
+
+**Business Implications:**
+- CloudTask Pro is spending money to acquire customers (CAC) who don't stay long enough to pay for the cost of getting them. The company is effectively **"burning" its acquisition budget**. For instance, the company spent 36.48% of the marketing budget to acquire customers on the starter plan, yet 70.51% of them churned. 
+- With such high churn in the monthly and starter tiers, the **monthly income is unpredictable**. The company cannot accurately forecast growth because it doesn't know how many customers will still be there next month.
+- Losing an enterprise customer is much more expensive than losing a starter customer. The high enterprise churn rate represents a massive **loss of "potential lifetime value."**
+- A 61% churn rate for referrals suggests that even when someone is "convinced" to join by a friend, the product experience isn't keeping them there. This can **damage the company’s reputation through word-of-mouth** over time.
+
+**Strategic Recommendations:**
+- To fix the 60.51% monthly churn, CloudTask Pro should **offer a discount** (e.g., 2 months free) for customers who switch to annual billing. This will lock in revenue and give the customer more time to integrate the product into their daily workflow.
+- Since CloudTask Pro is losing 63.16% of its biggest revenue earner, it needs a **dedicated customer success team.** For every enterprise client, a staff member should be responsible for "onboarding" them and checking in monthly to ensure they are seeing the value of the services and products.
+- With a 70% failure rate at the entry level, the company needs to **look at its product or service offerings**. For instance, is the product too difficult to set up? CloudTask Pro should consider a "welcome call" or a simplified "quick-start" guide specifically for starter users to ensure they reach their first "win" with the cloud software quickly.
+- CloudTask Pro should look at who is referring these customers. The company may be incentivizing the "wrong" kind of sign-ups. The company should consider **changing the referral bonus** so it is only paid out after the new customer has stayed for at least 3 or 6 months.
+
+##
+
+
+<img width="1002" height="567" alt="image" src="https://github.com/user-attachments/assets/9d1a788b-ef03-4163-b71b-53699ab30985" />
+
+**Monthly Churn Rate Trend:**
+- The business faces **a cyclical retention challenge** in Q1 (February – April) and mid-summer (July – August). These periods represent recurring windows of high risk.
+- The data reveals that **churn is driven by both external macro-factors** (e.g., February’s spike due to company closures) and **internal product gaps** (e.g., April’s spike due to missing product features).
+•	The final four months of the year (September–December) show a consistent "cooling" of churn, suggesting that year-end budget cycles or stability in those months offer a natural buffer for the company.
+•	The link between "missing features" and the April churn spike indicates that the company’s research and development roadmap is currently trailing behind the market's expectations for a product with better/upgraded features.
+
+
