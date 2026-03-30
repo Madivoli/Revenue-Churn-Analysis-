@@ -45,7 +45,7 @@ Management requests an analysis and a report to answer the following questions:
 **Monthly Churn Rate Trend:**
 - The business faces **a cyclical retention challenge** in Q1 (February – April) and mid-summer (July – August). These periods represent recurring windows of high risk.
 - The data reveals that **churn is driven by both external macro-factors** (e.g., February’s spike due to company closures) and **internal product gaps** (e.g., April’s spike due to missing product features).
-•	The final four months of the year (September–December) show a consistent "cooling" of churn, suggesting that year-end budget cycles or stability in those months offer a natural buffer for the company.
-•	The link between "missing features" and the April churn spike indicates that the company’s research and development roadmap is currently trailing behind the market's expectations for a product with better/upgraded features.
+- The final four months of the year (September–December) show a consistent "cooling" of churn, suggesting that year-end budget cycles or stability in those months offer a natural buffer for the company.
+- The link between "missing features" and the April churn spike indicates that the company’s research and development roadmap is currently trailing behind the market's expectations for a product with better/upgraded features.
 
 
