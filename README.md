@@ -23,9 +23,9 @@ Management requests an analysis and a report to answer the following questions:
 - Out of 600 clients, 313 have departed. This means the company is working twice as hard to stay in the same spot; for every new customer it acquires, it loses an existing one.
 - The following segments are high risk:
   - **Monthly billing, 60.51%:** Customers who pay month-to-month are significantly more likely to leave than those committed to longer billing cycles.
-  - **Starter plan, 70.51%:** Seven out of ten people who sign up for the starter plan don't stay.
+  - **Starter plan, 70.51%:** Seven out of ten people who sign up for the Starter plan don't stay.
   - **Referral, 61.29%:** Customers referred by friends/partners/colleagues are leaving at a significant rate (61.29%). Referrals are typically the most loyal, but, in this case, they are nearly as likely to leave as anyone else.
-  - **Enterprise, 63.16%:** This is the most alarming discovery. Typically, large "enterprise" clients are the most reliable. Losing more than 60% of them suggests that the company's product may not meet this segment's needs, or that it is not providing adequate support once they join.
+  - **Enterprise, 63.16%:** This is the most alarming discovery. Typically, large "Enterprise" clients are the most reliable. Losing more than 60% of them suggests that the company's product may not meet this segment's needs, or that it is not providing adequate support once they join.
 
 **Business Implications:**
 - CloudTask Pro is spending money to acquire customers (CAC) who don't stay long enough to pay for the cost of getting them. The company is effectively **"burning" its acquisition budget**. For instance, the company spent 36.48% of the marketing budget to acquire customers on the starter plan, yet 70.51% of them churned. 
