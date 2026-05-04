@@ -1,4 +1,4 @@
-𝗖𝗟𝗢𝗨𝗗 𝗧𝗔𝗦𝗞 𝗣𝗥𝗢 𝗥𝗘𝗩𝗘𝗡𝗨𝗘 𝗔𝗡𝗗 𝗖𝗛𝗨𝗥𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 
+𝗖𝗟𝗢𝗨𝗗𝗧𝗔𝗦𝗞 𝗣𝗥𝗢'𝘀 𝗥𝗘𝗩𝗘𝗡𝗨𝗘 𝗔𝗡𝗗 𝗖𝗛𝗨𝗥𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 
 
 <br>
 
@@ -76,31 +76,35 @@ Half of the churn is driven by 𝘁𝗵𝗲 𝗲𝗰𝗼𝗻𝗼𝗺𝘆 (𝗯�
 
 <br>
 
-While 𝗯𝘂𝗱𝗴𝗲𝘁 𝗰𝘂𝘁𝘀 is the #1 reason for churn overall, **it is largely a symptom of the small-sized customer base.** In contrast, the Enterprise churn is driven by **product gaps (missing features)**.CloudTask Pro is losing small customers to the economy and large customers to its competitors' feature sets.
+While 𝗯𝘂𝗱𝗴𝗲𝘁 𝗰𝘂𝘁𝘀 is the #1 reason for churn overall, 𝗶𝘁 𝗶𝘀 𝗹𝗮𝗿𝗴𝗲𝗹𝘆 𝗮 𝘀𝘆𝗺𝗽𝘁𝗼𝗺 𝗼𝗳 𝘁𝗵𝗲 𝘀𝗺𝗮𝗹𝗹-𝘀𝗶𝘇𝗲𝗱 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗯𝗮𝘀𝗲. In contrast, the Enterprise churn is driven by 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗴𝗮𝗽𝘀 (𝗺𝗶𝘀𝘀𝗶𝗻𝗴 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀). CloudTask Pro is losing small customers to the economy and large customers to its competitors' feature sets.
 
 <br>
 
 The top 3 reasons for churning and how they differ:
-- **Budget Cuts:** Heavily impacts micro and small-sized companies.
-- **Price Too High:** Primarily seen in the Starter and Professional plans.
-- **Company Closed:** Almost exclusively affects the small-sized company category
+- 𝗕𝘂𝗱𝗴𝗲𝘁 𝗖𝘂𝘁𝘀: Heavily impacts 𝗺𝗶𝗰𝗿𝗼 𝗮𝗻𝗱 𝘀𝗺𝗮𝗹𝗹-𝘀𝗶𝘇𝗲𝗱 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀.
+- 𝗣𝗿𝗶𝗰𝗲 𝗧𝗼𝗼 𝗛𝗶𝗴𝗵: Primarily seen in the 𝗦𝘁𝗮𝗿𝘁𝗲𝗿 𝗮𝗻𝗱 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗽𝗹𝗮𝗻𝘀.
+- 𝗖𝗼𝗺𝗽𝗮𝗻𝘆 𝗖𝗹𝗼𝘀𝗲𝗱: Almost exclusively affects the small-sized company category
 
 <br>
 
-The reasons differ significantly by Plan or Size:
-- For the Starter and Professional plans, **churn is overwhelmingly driven by "Budget Cuts" and "Price Too High"** (representing 35-38% of their total churn). This indicates that these segments are **price-sensitive, view the product as a discretionary expense, and are the first to cut it during economic tightening.** If they save $50 elsewhere, they will leave the company.
-- Enterprise plan churn is significantly lower overall (22%), but when it does occur, **it is driven by "No Longer Needed" and "Company Closed" (27.3% each)**. This implies that Enterprise **churn is less about the product's price or features and more about structural changes within the client's own organisation**.
-- Small-sized companies show a unique trend where "**no longer needed" is the top reason (18.3%)**, indicating **they may be using the product for one-off projects rather than as a permanent part of their workflow**.
+Churn reasons differ significantly by Plan or Size:
+- For the Starter and Professional plans, churn is overwhelmingly 𝗱𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 "𝗕𝘂𝗱𝗴𝗲𝘁 𝗖𝘂𝘁𝘀" 𝗮𝗻𝗱 "𝗣𝗿𝗶𝗰𝗲 𝗧𝗼𝗼 𝗛𝗶𝗴𝗵", 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗶𝗻𝗴 𝟯𝟱-𝟯𝟴% 𝗼𝗳 𝘁𝗵𝗲𝗶𝗿 𝘁𝗼𝘁𝗮𝗹 𝗰𝗵𝘂𝗿𝗻. This indicates that these segments are 𝗽𝗿𝗶𝗰𝗲-𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗲, 𝘃𝗶𝗲𝘄 𝘁𝗵𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗮𝘀 𝗮 𝗱𝗶𝘀𝗰𝗿𝗲𝘁𝗶𝗼𝗻𝗮𝗿𝘆 𝗲𝘅𝗽𝗲𝗻𝘀𝗲, 𝗮𝗻𝗱 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝘁𝗼 𝗰𝘂𝘁 𝗶𝘁 𝗱𝘂𝗿𝗶𝗻𝗴 𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝘁𝗶𝗴𝗵𝘁𝗲𝗻𝗶𝗻𝗴. 𝘐𝘧 𝘵𝘩𝘦𝘺 𝘴𝘢𝘷𝘦 $50 𝘦𝘭𝘴𝘦𝘸𝘩𝘦𝘳𝘦, 𝘵𝘩𝘦𝘺 𝘸𝘪𝘭𝘭 𝘭𝘦𝘢𝘷𝘦 𝘵𝘩𝘦 𝘤𝘰𝘮𝘱𝘢𝘯𝘺.
+- Enterprise plan churn is significantly 𝗹𝗼𝘄𝗲𝗿 𝗼𝘃𝗲𝗿𝗮𝗹𝗹 (𝟮𝟮%), but when it does occur, 𝗶𝘁 𝗶𝘀 𝗱𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 "𝗡𝗼 𝗟𝗼𝗻𝗴𝗲𝗿 𝗡𝗲𝗲𝗱𝗲𝗱" 𝗮𝗻𝗱 "𝗖𝗼𝗺𝗽𝗮𝗻𝘆 𝗖𝗹𝗼𝘀𝗲𝗱", 𝗮𝘁 𝟮𝟳.𝟯% 𝗲𝗮𝗰𝗵. This implies that, in the Enterprise segment, churn is 𝗹𝗲𝘀𝘀 𝗮𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁'𝘀 𝗽𝗿𝗶𝗰𝗲 𝗼𝗿 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀 and more about 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 𝗰𝗹𝗶𝗲𝗻𝘁'𝘀 𝗼𝘄𝗻 𝗼𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻.
+- Small-sized companies show a unique trend where "𝗻𝗼 𝗹𝗼𝗻𝗴𝗲𝗿 𝗻𝗲𝗲𝗱𝗲𝗱" 𝗶𝘀 𝘁𝗵𝗲 𝘁𝗼𝗽 𝗿𝗲𝗮𝘀𝗼𝗻, 𝗮𝘁 𝟭𝟴.𝟯%, indicating 𝘁𝗵𝗲𝘆 𝗺𝗮𝘆 𝗯𝗲 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗳𝗼𝗿 𝗼𝗻𝗲-𝗼𝗳𝗳 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝗮𝘀 𝗮 𝗽𝗲𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗽𝗮𝗿𝘁 𝗼𝗳 𝘁𝗵𝗲𝗶𝗿 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄.
+- Large and Micro companies are 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝘀𝘂𝘀𝗰𝗲𝗽𝘁𝗶𝗯𝗹𝗲 𝘁𝗼 "𝗯𝘂𝗱𝗴𝗲𝘁 𝗰𝘂𝘁𝘀", affecting 𝟮𝟯% 𝗼𝗳 𝗰𝗵𝘂𝗿𝗻𝗲𝗱 𝘂𝘀𝗲𝗿𝘀 in these groups.
 
 <br>
 
-To optimize retention, the strategy should be two-fold:
-1.	For Starter/Professional: **Implement budget-save offers**.
-2.	For Business/Enterprise: **Accelerate the feature roadmap and assign dedicated support/success managers** to prevent service-based churn.
+To 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗿𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻, the strategy should be two-fold:
+- For Starter/Professional Plans: 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗯𝘂𝗱𝗴𝗲𝘁-𝘀𝗮𝘃𝗶𝗻𝗴 𝗼𝗳𝗳𝗲𝗿𝘀 and 𝗱𝗼𝘄𝗻𝘀𝗲𝗹𝗹 𝗽𝗮𝘁𝗵𝘀. For instance, instead of 𝗮 𝘀𝗶𝗻𝗴𝗹𝗲 $𝟭𝟬𝟬 𝗮𝗻𝗻𝘂𝗮𝗹 𝗽𝗮𝘆𝗺𝗲𝗻𝘁, offer the same product for 𝟰 𝗺𝗼𝗻𝘁𝗵𝗹𝘆 𝗽𝗮𝘆𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 $𝟮𝟳.𝟱. Alternatively, offer 𝗮 𝟳-𝗱𝗮𝘆 𝘁𝗿𝗶𝗮𝗹 𝗳𝗼𝗿 $𝟭𝟬 when they decline a full monthly subscription.
+- For Business/Enterprise Segments: 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗲 𝘁𝗵𝗲 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗿𝗼𝗮𝗱𝗺𝗮𝗽 𝗮𝗻𝗱 𝗮𝘀𝘀𝗶𝗴𝗻 𝗱𝗲𝗱𝗶𝗰𝗮𝘁𝗲𝗱 𝘀𝘂𝗽𝗽𝗼𝗿𝘁/𝘀𝘂𝗰𝗰𝗲𝘀𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗿𝘀 to prevent service-based churn.
 
 ##
 ##
-**KEY INFLUENCERS OF CHURN RATE**
+
+𝗞𝗘𝗬 𝗜𝗡𝗙𝗟𝗨𝗘𝗡𝗖𝗘𝗥𝗦 𝗢𝗙 𝗖𝗛𝗨𝗥𝗡 𝗥𝗔𝗧𝗘
+
+<br>
 
 <img width="997" height="570" alt="image" src="https://github.com/user-attachments/assets/23a05e0b-4ca5-45ce-b42e-d8db22b18c02" />
 
